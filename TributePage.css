@@ -1,0 +1,43 @@
+#main{
+  background-color: lightgray;
+  margin:30px 10px 30px 10px;
+  border-radius:0.9%
+}
+#title{
+  text-align:center;
+  padding-top:30px;
+  font-size:50px;
+}
+p{
+  text-align:center;
+  font-size:20px;
+}
+#img-div{
+  background-color: white;
+  margin:30px 10px 30px 10px;
+}
+#image{
+  max-width:100%;
+  height:auto;
+  margin:auto;
+  display:block;
+  padding-top:50px;
+}
+#img-caption{
+  text-align:center;
+  padding-bottom:15px;
+  font-size:18px;
+}
+#tribute-info{
+  text-align:center;
+  padding-bottom:15px;
+}
+h3{
+  padding:20px;
+}
+ul{
+  display:inline-block;
+  text-align:left;
+  font-size:18px;
+  width:500px;
+}
